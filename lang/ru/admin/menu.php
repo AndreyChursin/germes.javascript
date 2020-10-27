@@ -1,0 +1,3 @@
+<?
+$MESS["MAIN_MENU_TOOLS_GERMES_MULTIBASKET"] = "Мультикорзины";
+$MESS["MAIN_MENU_TOOLS_TITLE_GERMES_MULTIBASKET"] = "Мультикорзины";

@@ -1,0 +1,30 @@
+<?
+$MESS["CVP_MESS_BTN_BUY_GIFT_DEFAULT"] = "Wybierz";
+$MESS["CVP_MESS_BTN_DETAIL_DEFAULT"] = "Szczegóły";
+$MESS["SBB_ACTION_VARIABLE"] = "Nazwa zmiennej działania";
+$MESS["SBB_BDELAY"] = "Wstrzymaj";
+$MESS["SBB_BDELETE"] = "Usuń";
+$MESS["SBB_BDISCOUNT"] = "Upust";
+$MESS["SBB_BNAME"] = "Nazwa produktu";
+$MESS["SBB_BPRICE"] = "Cena";
+$MESS["SBB_BPROPS"] = "Właściwości przedmiotu produktu";
+$MESS["SBB_BQUANTITY"] = "Ilość";
+$MESS["SBB_BSUM"] = "Razem";
+$MESS["SBB_BTYPE"] = "Rodzaj ceny";
+$MESS["SBB_BWEIGHT"] = "Waga";
+$MESS["SBB_COLUMNS_LIST"] = "Kolumny";
+$MESS["SBB_COUNT_DISCOUNT_4_ALL_QUANTITY"] = "Oblicz upst dla każdej pozycji zamówienia (całkowita wartość)";
+$MESS["SBB_DESC_NO"] = "Nie";
+$MESS["SBB_DESC_YES"] = "Tak";
+$MESS["SBB_HIDE_COUPON"] = "Ukryj po wprowadzeniu kuponu";
+$MESS["SBB_OFFERS_PROPS"] = "Parametry SKU";
+$MESS["SBB_PATH_TO_ORDER"] = "Strona zamówienia";
+$MESS["SBB_PREVIEW_PICTURE"] = "Obraz";
+$MESS["SBB_QUANTITY_FLOAT"] = "Użyj ilości ułamkowych";
+$MESS["SBB_USE_PREPAYMENT"] = "Użyj PayPal Express Checkout";
+$MESS["SBB_VAT_INCLUDE"] = "Zawrzyj podatek w cenie";
+$MESS["SBB_VAT_SHOW_VALUE"] = "Pokaż wartość stawki podatku";
+$MESS["SBB_WEIGHT_KOEF"] = "Gramy w jednostce masy";
+$MESS["SBB_WEIGHT_UNIT"] = "Jednostka masy";
+$MESS["SBB_WEIGHT_UNIT_G"] = "g";
+?>
