@@ -2,7 +2,7 @@
 /**
  * Bitrix Framework
  * @package germes
- * @subpackage multibasket
+ * @subpackage javascript
  * @copyright 2019 ra-germes
  */
 use Bitrix\Main;
@@ -17,7 +17,7 @@ use Bitrix\Main\Localization\Loc;
 use Bitrix\Sale\Internals\FuserTable;
 
 
-Class germes_multibasket extends CModule
+Class germes_js extends CModule
 {
 	public function __construct()
 	{
